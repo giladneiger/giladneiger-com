@@ -1,0 +1,22 @@
+{
+  "name": "gilad-neiger-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.cjs",
+    "start": "node server.cjs",
+    "qa:headlines": "node qa/headlines.cjs",
+    "qa:layout": "node qa/layout.cjs",
+    "qa:scroll": "node qa/scroll.cjs",
+    "qa:mobile": "node qa/mobile.cjs",
+    "qa:forms": "node qa/forms.cjs",
+    "qa:motion": "node qa/motion.cjs",
+    "qa:typography": "node qa/typography.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

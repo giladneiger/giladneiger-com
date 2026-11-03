@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-03",
+  "environment": "Windows, headless Microsoft Edge, loaded local fonts",
+  "viewportSizes": [
+    "1440x900",
+    "1366x768",
+    "1024x768",
+    "820x900",
+    "768x900",
+    "760x900",
+    "430x932",
+    "390x844",
+    "375x667",
+    "360x640",
+    "320x640"
+  ],
+  "expansionStates": 88,
+  "titleMeasurements": 330,
+  "singleWordLines": 0,
+  "clippedTitles": 0,
+  "artworkOverlaps": 0
+}

@@ -1,0 +1,4 @@
+// Legacy bookmarks keep a useful reading page and point to the published source.
+const a=articles.find(a=>a.id===Number(new URLSearchParams(location.search).get('id'))),root=document.querySelector('#article-page');
+if(!a){root.innerHTML='<h1>Article not found</h1><p><a href="/#articles">Back to Gilad’s articles →</a></p>';}
+else{document.title=a.title+' · Gilad Neiger';root.innerHTML=`<p class="eyebrow">${a.topic} / ${a.date} / By Gilad Neiger</p><h1>${a.title}</h1><p class="article-deck">${a.excerpt}</p><img class="article-illustration ${a.theme||''}" src="assets/${a.art}" alt=""><p>Published on develeap.</p><a class="button" href="${a.url}" target="_blank" rel="noopener">Read the full article on develeap ↗</a><p><a class="text-link" href="/#articles">← Back to Gilad’s articles</a></p>`;}

@@ -1,0 +1,17 @@
+/* Once-only editorial entrances; the pinned Loop keeps its own scroll timeline. */
+.reveal-word{display:inline-block;vertical-align:baseline;clip-path:inset(-.16em -.06em -.23em -.06em)}
+.word-ink{display:inline-block}
+[data-enter-state="pending"]{opacity:0}
+[data-enter="words"][data-enter-state="pending"],.chapter-panel[data-enter-state="pending"]{opacity:1}
+[data-enter="words"][data-enter-state="pending"] .word-ink{opacity:0;transform:translateY(105%)}
+.chapter-panel[data-enter]::before{transform-origin:right center;transition:transform .75s cubic-bezier(.16,1,.3,1),opacity .55s}
+.chapter-panel[data-enter-state="pending"]::before{opacity:0;transform:scaleX(.94)}
+.chapter-page [data-enter-state="pending"] mark:before{transform:rotate(-1deg) scaleX(0);transform-origin:left}
+.chapter-page [data-enter-state="running"] mark:before,.chapter-page [data-enter-state="entered"] mark:before{transform-origin:left;animation:quote-underline .65s .27s cubic-bezier(.16,1,.3,1) both}
+@keyframes quote-underline{from{transform:rotate(-1deg) scaleX(0)}to{transform:rotate(-1deg) scaleX(1)}}
+@media(prefers-reduced-motion:reduce){
+ [data-enter-state="pending"],.word-ink{opacity:1!important;transform:none!important}
+ .chapter-panel[data-enter]::before{transform:none!important;opacity:1!important;transition:none}
+ .chapter-page mark:before{animation:none!important;transform:rotate(-1deg)!important}
+ .reveal-word{clip-path:none}
+}
