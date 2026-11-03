@@ -14,8 +14,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6171,
-      "sha256": "E402D18E04F9F0D7439C5D1F48475A721430E768143B41C3EA2F0DFCE681F878"
+      "bytes": 6242,
+      "sha256": "F1A86BB2226CFCC4FB69F06A19A6FD2F24506C4963DD1AD42ABED1756564A199"
     },
     {
       "path": "server.cjs",
@@ -64,8 +64,8 @@
     },
     {
       "path": "dist/index.html",
-      "bytes": 12706,
-      "sha256": "FBBE69CE81E27509A080CC0604BB096EB2B24F20478DDA4A73EBF466D13DE45F"
+      "bytes": 12966,
+      "sha256": "8E0A2D5ACC2EDB0DCB28D0D9BDF766B002C309BE156119CCF34D8FDC31DF345F"
     },
     {
       "path": "dist/loop-journey.css",
@@ -99,8 +99,8 @@
     },
     {
       "path": "dist/newsletter-issues.js",
-      "bytes": 5327,
-      "sha256": "142F75E2E3AFE7027E7EE08F71E30F748C7CEB3ADB51519CB5E88E8EC8D55C87"
+      "bytes": 8627,
+      "sha256": "4180B86072D69D684AAA0D85B8C9D7435997FD74341A76C4A23AF5B2C94453A8"
     },
     {
       "path": "dist/newsletter-transition.js",
