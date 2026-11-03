@@ -14,8 +14,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6242,
-      "sha256": "F1A86BB2226CFCC4FB69F06A19A6FD2F24506C4963DD1AD42ABED1756564A199"
+      "bytes": 6246,
+      "sha256": "A0B90E2D82174C1DB39CFB62A65F6260EA74E0FE1C3CE9C85F4E78611BEDC496"
     },
     {
       "path": "server.cjs",
@@ -24,8 +24,8 @@
     },
     {
       "path": "dist/app.js",
-      "bytes": 10767,
-      "sha256": "616099FF844F1780353C4500F632BF0E46E76C6248F3EB4AE7AFD6548D9070BA"
+      "bytes": 10771,
+      "sha256": "FE4C71703E36676E0758B35D998396631C0C2E1841B76687C7494A9A7454A59F"
     },
     {
       "path": "dist/article.html",
@@ -64,8 +64,8 @@
     },
     {
       "path": "dist/index.html",
-      "bytes": 12966,
-      "sha256": "8E0A2D5ACC2EDB0DCB28D0D9BDF766B002C309BE156119CCF34D8FDC31DF345F"
+      "bytes": 12978,
+      "sha256": "E575ED1DD827AE7299E7CCB6388DD647770CC63B64E1847FDF897374A2C0F688"
     },
     {
       "path": "dist/loop-journey.css",
