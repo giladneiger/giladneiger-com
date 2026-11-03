@@ -37,7 +37,6 @@ Serve `.html`, `.css`, `.js`, `.svg`, `.webp`, fonts and `.pdf` with their stand
 4. **Book purchase:** the Amazon button currently opens a title/author search. Replace it with the final product URL.
 5. **Speaking:** the form opens a `mailto:` draft. Confirm `gilad.neiger@develeap.com` and keep this intentional, or connect the desired delivery endpoint.
 6. **Campaign attribution:** there is no conversion analytics or UTM-to-CRM mapping. The current weekly form sends `origin + pathname` as `pageUri`. Add campaign attribution if needed.
-7. Replace the footer's `Local design preview` copy when the demonstration behavior above has been resolved.
 
 No production publication or live signup was performed for this handoff.
 

@@ -14,8 +14,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6246,
-      "sha256": "A0B90E2D82174C1DB39CFB62A65F6260EA74E0FE1C3CE9C85F4E78611BEDC496"
+      "bytes": 6137,
+      "sha256": "0810DC93BE5BAA76D6AA40D024A2B8745B84BE0DE7A9257C82410EACF39FC4B5"
     },
     {
       "path": "server.cjs",
@@ -64,8 +64,8 @@
     },
     {
       "path": "dist/index.html",
-      "bytes": 12978,
-      "sha256": "E575ED1DD827AE7299E7CCB6388DD647770CC63B64E1847FDF897374A2C0F688"
+      "bytes": 12954,
+      "sha256": "7C5C5D8A8D8D44E6EAA92C33616C5E69A8E6A6AC98C8DAF643E954970A6D4A52"
     },
     {
       "path": "dist/loop-journey.css",
