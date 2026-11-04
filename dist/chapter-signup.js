@@ -25,7 +25,7 @@
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           fields: [{ objectTypeId: '0-1', name: 'email', value: email.value.trim() }],
-          context: { pageName: 'First chapter and The Team Talk | Gilad Neiger', pageUri: location.origin + location.pathname }
+          context: { pageName: 'First chapter | Gilad Neiger', pageUri: location.origin + location.pathname }
         })
       });
       if (!response.ok) {
