@@ -29,8 +29,8 @@
     },
     {
       "path": "dist/article.html",
-      "bytes": 529,
-      "sha256": "3121EC11C6B292893E220BDE44C28CB29F0B319B15A0F7D3309463F8D5D5AB5D"
+      "bytes": 691,
+      "sha256": "515BD4121989A60F78D3F8B48560C14B8062D28B70BB37DE8AA424344907543A"
     },
     {
       "path": "dist/article.js",
@@ -64,8 +64,8 @@
     },
     {
       "path": "dist/index.html",
-      "bytes": 12761,
-      "sha256": "EE6814736EAAF6BE339AE046024AAC5B9B2704BDC5ED5C525372394F747E8F02"
+      "bytes": 12913,
+      "sha256": "CA140F12BF005143B8367B1907F11807CC39D00D9FCC007CA267F3A95F8FE46F"
     },
     {
       "path": "dist/loop-journey.css",
@@ -109,8 +109,8 @@
     },
     {
       "path": "dist/newsletters.html",
-      "bytes": 4474,
-      "sha256": "F43B1AB95CAF112218CBBFA623212F5CFBF147C262E1A396F57DAE2B64FBF56A"
+      "bytes": 4636,
+      "sha256": "9E0DB51730700C3F47667BE7119A622256B5F6BF47A65DCCE0EB58714BA15AB0"
     },
     {
       "path": "dist/page-motion.css",
@@ -399,8 +399,8 @@
     },
     {
       "path": "dist/newsletters/issue-31.html",
-      "bytes": 69769,
-      "sha256": "930911BFBFA396812D2C402EA2B466E8FE2BF66737BA8F67642A1CDC3816A6AD"
+      "bytes": 69940,
+      "sha256": "F681354E72D0E8A9BA35EF898EF228BF6409F0C8B1742D531F458BF25BCB5749"
     },
     {
       "path": "dist/newsletters/assets/213e55015a1f85b2.webp",
@@ -486,6 +486,21 @@
       "path": "qa/chapter-signup.cjs",
       "bytes": 2663,
       "sha256": "B69FD719A5A535717692ABD5FA02874210360108EB2FAFEC42FC343FB0B406BB"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "bytes": 1668,
+      "sha256": "C56B0CF6E8D2F2C26A865D86443415A1CF0A8D80E167A1ACA14EBB435DD3928E"
+    },
+    {
+      "path": "dist/favicon.ico",
+      "bytes": 4454,
+      "sha256": "EB0E6E97571CCA9EBFE9EE71DCCA0B9C9C53560F95FAF7FFBAC1A27E64D3DCC7"
+    },
+    {
+      "path": "dist/apple-touch-icon.png",
+      "bytes": 8949,
+      "sha256": "C8817DC24F2113EE5A1C03CECBF67FD65F42FA8ACFDADE2A3A12AFBDAB309D12"
     }
   ]
 }
