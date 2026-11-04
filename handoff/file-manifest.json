@@ -14,8 +14,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6401,
-      "sha256": "8E7F7C4B6BDEB2D15F3E545D3541547D35390D1648C3E5CEF4F52360F780489C"
+      "bytes": 6583,
+      "sha256": "349126A2902EFDB3C537F250CAD57767C3C006F00D95878D67EEDE0B8508D806"
     },
     {
       "path": "server.cjs",
@@ -64,8 +64,8 @@
     },
     {
       "path": "dist/index.html",
-      "bytes": 12844,
-      "sha256": "75678ACCAD75E97525E2E98709EE8B796CB2F18ECF67F493FFD9518CCBCE730D"
+      "bytes": 12761,
+      "sha256": "EE6814736EAAF6BE339AE046024AAC5B9B2704BDC5ED5C525372394F747E8F02"
     },
     {
       "path": "dist/loop-journey.css",
@@ -479,8 +479,8 @@
     },
     {
       "path": "dist/chapter-signup.js",
-      "bytes": 2573,
-      "sha256": "A5CD73A92A2AB8442FA1E865B03B7DA3294CCCCBBC300A83688108F96A11CDBD"
+      "bytes": 2581,
+      "sha256": "ADB09384B8AE007CB04BACFF6872A8A33420C4238348182DFAA6C129C3DB3300"
     },
     {
       "path": "qa/chapter-signup.cjs",

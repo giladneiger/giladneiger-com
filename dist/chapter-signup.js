@@ -37,7 +37,7 @@
       }
       complete = true;
       status.dataset.state = 'success';
-      status.textContent = 'Thanks! Your request has been received.';
+      status.textContent = 'Thanks! Check your inbox for the first chapter.';
       button.textContent = 'Request received ✓';
       email.value = '';
     } catch (error) {
